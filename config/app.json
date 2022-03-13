@@ -1,0 +1,13 @@
+{
+  "app_name": "CloudRestaurant",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "8090",
+  "sms": {
+    "sign_name": "阿里云短信测试",
+    "template_code": "S*********9",
+    "app_key":"L********im",
+    "app_secret":"I********q",
+    "region_id":"cn-hangzhou"
+  }
+}
